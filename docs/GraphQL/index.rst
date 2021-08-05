@@ -7,4 +7,4 @@ Using GraphQL
     generatingApiKey
     makingASimpleRequest
 
-TODO: Insert starting guide with a simple example for using the playground.
+TODO: Insert starting guide with a simple example for using the playground
