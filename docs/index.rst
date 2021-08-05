@@ -15,6 +15,8 @@ Welcome to Passi's public documentation!
    UserManagement/index
    GraphQL/index
 
+This documentation is currently in progress and can not be considered ready.
+
 Search
 ==================
 
