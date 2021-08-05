@@ -1,0 +1,9 @@
+Using GraphQL
+======================================================
+.. toctree::
+    :maxdepth: 2
+    :caption: GraphQL:
+    
+    makingASimpleRequest
+
+TODO: Insert starting guide with a simple example for using the playground.

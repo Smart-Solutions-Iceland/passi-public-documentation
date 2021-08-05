@@ -10,11 +10,12 @@ Welcome to Passi's public documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Overview/index
+   GettingStarted/index
+   UserManagement/index
+   GraphQL/index
 
-
-Indices and tables
+Search
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
