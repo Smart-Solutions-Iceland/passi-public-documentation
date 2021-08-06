@@ -7,12 +7,13 @@ Welcome to Passi's public documentation!
 ======================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
    Overview/index
    GettingStarted/index
    UserManagement/index
+   PassTemplates/index
    GraphQL/index
 
 This documentation is currently in progress and can not be considered ready.
