@@ -3,11 +3,11 @@ Making a simple request
 
 This guide is intended to give an example on how to make your first query and mutation on the platform. We will use the provided playground on `api.passi.is/playground <https://api.passi.is/playground>`_ to try our the requests to the graphQL server.
 
-We will assume that you have already have made your first pass template and wish to add new passes to it. We will also use the cookie provided from the UI to make the test request but there will be an example on how to use the api key below. To generate a cookie to use, simply log on to `passi.is <https://passi.is>`_.
+We will assume that you have already have made your first pass template and wish to add new passes to it. We will also use the cookie provided from the UI to make the test request but there will be an example on how to use the api key in code examples. To generate a cookie to use, simply log on to `passi.is <https://passi.is>`_.
 
 What we first want to do is get the Id of the passtemplate we want to create the new pass with. To do this we will query the passTemplates to get a list of the passtemplates we have. 
 
-Because the list is paged, the data we are looking for appear under data. We only really need to find the Id here but because we might need something to distinguish between the templates if we have multiple, we fetch the name as well.
+Because the list is paged, the data we are looking for will be returned under data. We only really need to find the Id here but because we might need something to distinguish between the templates if we have multiple, so we fetch the name as well.
 
 .. code-block::
 
@@ -44,7 +44,7 @@ When you have written the query into the playground you can hit the play button 
         }
     }
 
-From there we can grab the ID we need and start creating passes. Please
+From there we can grab the ID we need and start creating passes.
 
 To create a pass we have to use the upsertPass mutation and pass in the id as a parameter. To do this we write the following query.
 
@@ -56,7 +56,7 @@ To create a pass we have to use the upsertPass mutation and pass in the id as a 
         }
     }
 
-But we also have to fill in the query variables below to pass in the variables to go on with it. The variables are added on in a json format. 
+But we also have to fill in the query variables below to pass in the variables to go on with it. The variables should be in json format.
 
 We name the variable "inputData" to reference the variable $inputData that we stated in the query above. In the query we set inputData to be of the type PassDataInput which is a argument for the UpsertPass mutation. That means that here we can pass in any data here that exists in the PassDataInput type, for example you would add the custom inputValues here.
 
@@ -70,7 +70,7 @@ We name the variable "inputData" to reference the variable $inputData that we st
 
 *Note that when upserting a pass, passTemplateId is a required argument*
 
-Go ahead and execute the query we just wrote. This should return to us the following:ref:`
+Go ahead and execute the query we just wrote. This should return to us the following results:
 
 .. code-block:: json
 
