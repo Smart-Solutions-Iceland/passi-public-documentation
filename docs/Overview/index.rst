@@ -1,6 +1,4 @@
 Overview
 ==========
 
-This documentation is currently in progress and can not be considered ready.
-
-TODO: Insert overview text
+Sorry! This part of the documentation is not ready yet.

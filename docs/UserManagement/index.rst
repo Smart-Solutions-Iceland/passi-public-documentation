@@ -7,4 +7,4 @@ User management
     
     creatingNewUsers
 
-TODO: input documentation on how to create new users with our UI.
+Sorry! This part of the documentation is not ready yet.

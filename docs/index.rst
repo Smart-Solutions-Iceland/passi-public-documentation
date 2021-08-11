@@ -16,7 +16,7 @@ Welcome to Passi's public documentation!
    PassTemplates/index
    GraphQL/index
 
-This documentation is currently in progress and can not be considered ready.
+This documentation is currently being written and is still missing alot of information. Please contact support if information or help is needed.
 
 Search
 ==================
