@@ -6,4 +6,4 @@ Pass Templates
     
     Types/index
 
-Sorry! This part of the documentation not ready yet.
+Sorry! This part of the documentation is not ready yet.

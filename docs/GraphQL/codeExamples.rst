@@ -1,7 +1,7 @@
 Code examples
 =======================
 
-We have a provided a few code examples here below. 
+We have provided a few code examples here below. 
 
 .. toctree::
     :maxdepth: 1
