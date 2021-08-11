@@ -6,4 +6,4 @@ Getting started
     :caption: Getting started:
     
 
-TODO
+Sorry! This part of the documentation not ready yet.

@@ -6,4 +6,4 @@ Pass Templates
     
     Types/index
 
-TODO: Insert pass template text text sdf sdfsdf sdfsdf sd fsdf
+Sorry! This part of the documentation not ready yet.
