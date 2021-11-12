@@ -4,4 +4,4 @@ Storage passes are a great way to provide your customers with a safe place to st
 
 .. image:: /Images/Storage_example.png
   :width: 400
-  :alt: Klippikort
+  :alt: Storage card

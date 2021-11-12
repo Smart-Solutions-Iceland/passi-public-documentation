@@ -6,4 +6,4 @@ We recommend using smartscanner to update passes.
 
 .. image:: /Images/Klippikort.png
   :width: 400
-  :alt: Klippikort
+  :alt: Punch card
