@@ -6,5 +6,6 @@ User management
     :caption: User management:
     
     creatingNewUsers
+    roles
 
 Sorry! This part of the documentation is not ready yet.
