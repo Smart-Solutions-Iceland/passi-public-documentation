@@ -2,8 +2,14 @@ Pass Template types
 ======================================================
 .. toctree::
     :maxdepth: 2
-    :caption: PassTemplateTypes:
     
+    id
     coupon
+    punch
+    ticket
+    gift
+    member
+    multiticket
+    storage
 
-Sorry! This part of the documentation is not ready yet.
+We have loads of templates to choose from. Take a look at the items above for a more in depth explanation of each type and find what fits your use case.
